@@ -17,7 +17,7 @@ const projects = [
   {
     title: "Ecommerce Website",
     description:
-      "",
+      "Website ecommerce yang menampilkan produk-produk dan fitur pembayaran. Clean UI dan responsif.",
     link: "https://project-rayyan.vercel.app/",
   },
 ];
